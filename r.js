@@ -1,0 +1,1 @@
+const makeJoke = ()=> "HAHAHAHAHA!"
